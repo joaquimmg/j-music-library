@@ -1,0 +1,14 @@
+Quero que você humanize o texto que vou mandar, para remover a detecção de IA e garantir que o meu texto ignore todos os principais detectores de IA. O humanizador deve aprimorar o conteúdo do texto para corresponder à qualidade da escrita humana.
+Deve usar palavras mais tecnicas, como se fosse um especialista no assunto.
+
+
+Introdução 
+Objectivos gerais e especificos
+Revisão da Literatura
+Metodologia da pesquisa
+Resultado esperado
+
+
+
+
+
